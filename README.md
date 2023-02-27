@@ -9,9 +9,8 @@ In this repository you can find my test done in Jupyter Hub on data available as
 ## Jupyter Lab preparation
 ```
 conda install mamba -c conda-forge
-mamba create --name imQA python=3.9 jupyterlab -c conda-forge
+mamba create --name imQA python=3.8 jupyterlab -c conda-forge
 conda activate imQA
-pip install pyimq
 ```
 optional: Code Formatting Jupyter Notebooks with Black
 ```

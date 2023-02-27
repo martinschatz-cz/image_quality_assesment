@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/martinschatz-cz/image_quality_assesment/HEAD?labpath=image_quality_assesment.ipynb)
+
 # Image Quality Assesment
 
 The tested package pyimg is available on GitHub [https://github.com/sakoho81/pyimagequalityranking](https://github.com/sakoho81/pyimagequalityranking).
